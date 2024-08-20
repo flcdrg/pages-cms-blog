@@ -1,5 +1,8 @@
 media: media
 content:
+  - name: index
+    type: file
+    path: index.md
   - name: posts
     label: Posts
     type: collection
